@@ -2,6 +2,8 @@
 
 Porkchop plotting tool for ballistic transfer trajectories.
 
+<p align="center"><img src="https://raw.githubusercontent.com/nonballistic/bbq/master/plots/porkchop.jpg"/></p>
+
 ## dependencies
 
 - [esa/pykep](https://github.com/esa/pykep/)
